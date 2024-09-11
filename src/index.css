@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: portfolio;
+  src: url(./Components/Portfoliofor.ttf);
+}
+
+h1 {
+  font-family: portfolio;
+}
+
+body {
+  background-color: beige;
+}
