@@ -10,7 +10,7 @@ function Hero() {
             loop
             muted
             className="w-full h-full object-cover object-center"
-            src="src/assets/Long Videos/Poster.mp4"
+            src="src/assets/LongVideos/Poster.mp4"
           ></video>
         </div>
       </div>
@@ -32,7 +32,7 @@ function Hero() {
             loop
             muted
             className="h-screen w-full object-cover bg-gray-500"
-            src="src/assets/Short Videos/Video1.mp4"
+            src="src/assets/ShortVideos/Video1.mp4"
           ></video>
           <img className="mix-blend-multiply" src="src/assets/Phone.png" alt="" />
         </div>
@@ -42,7 +42,7 @@ function Hero() {
             loop
             muted
             className="w-full h-full object-cover"
-            src="src/assets/Short Videos/Video2.mp4"
+            src="src/assets/ShortVideos/Video2.mp4"
           ></video>
         </div>
         <div className="w-52 h-96 bg-neutral-500 rounded-md overflow-hidden">
@@ -51,7 +51,7 @@ function Hero() {
             loop
             muted
             className="w-full h-full object-cover"
-            src="src/assets/Short Videos/Video3.mp4"
+            src="src/assets/ShortVideos/Video3.mp4"
           ></video>
         </div>
         <div className="w-52 h-96 bg-neutral-500 rounded-md overflow-hidden">
@@ -60,7 +60,7 @@ function Hero() {
             loop
             muted
             className="w-full h-full object-cover"
-            src="src/assets/Short Videos/Video4.mp4"
+            src="src/assets/ShortVideos/Video4.mp4"
           ></video>
         </div>
       </div>
@@ -71,7 +71,7 @@ function Hero() {
             loop
             muted
             className="w-full h-full object-cover"
-            src="src/assets/Short Videos/Video5.mp4"
+            src="src/assets/ShortVideos/Video5.mp4"
           ></video>
         </div>
         <div className="w-52 h-96 bg-neutral-500 rounded-md overflow-hidden">
@@ -80,7 +80,7 @@ function Hero() {
             loop
             muted
             className="w-full h-full object-cover"
-            src="src/assets/Short Videos/Video6.mp4"
+            src="src/assets/ShortVideos/Video6.mp4"
           ></video>
         </div>
         <div className="w-52 h-96 bg-neutral-500 rounded-md overflow-hidden">
@@ -89,7 +89,7 @@ function Hero() {
             loop
             muted
             className="w-full h-full object-cover"
-            src="src/assets/Short Videos/Video7.mp4"
+            src="src/assets/ShortVideos/Video7.mp4"
           ></video>
         </div>
       </div>
